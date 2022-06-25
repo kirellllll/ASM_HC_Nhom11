@@ -1,0 +1,96 @@
+.row {
+    display: block;
+}
+
+.close {
+    text-align: right;
+}
+
+.all-cash {
+    text-align: center;
+}
+
+.all-cash button {
+    padding: 20px 100px;
+}
+.main-giohang{
+    width: 1200px;
+}
+
+.popup-cart .btn-count {
+
+    padding: 11px 15px;
+    border: solid 1px;
+    width: 40px;
+
+}
+
+.popup-cart .cash {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.popup-cart input {
+    text-align: center;
+    width: 30px;
+    padding: 10px 15px;
+    padding-left: 25px;
+}
+
+.popup-cart img {
+    width: 100%;
+    height: 150px;
+}
+
+.cart {
+    display: flex;
+    text-align: center;
+}
+
+.popup-cart {
+    margin: 50px auto;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 5px black;
+    z-index: 1000;
+    padding: 20px;
+    width: 800px;
+}
+
+.box-1 {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.box-2 {
+    flex: 2;
+    margin-right: 10px;
+}
+.tieude-giohang{
+    font-size: 30px;
+    color: red;
+}
+button{
+    background-color: rgb(87, 234, 250);
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    outline: none;
+}
+button:hover{
+    background-color: rgb(0, 0, 0);
+}
+h2{
+    color: red;
+}
+input{
+    border-radius: 20px;
+}
+.cash{
+    margin-left: 20px;
+}
+#tongtien{
+    font-size: 20px;
+    color: rgb(119, 225, 255);
+    font-style: italic;
+}
